@@ -11,21 +11,22 @@ Computer Poetry at Loyola Marymount University. Taught by Prof. Toal
 [How to Write Haikus](http://www.wikihow.com/Write-a-Haiku-Poem)
 
 ## Personal Attempts at Haikus
-> Autumn is lovely\
-Baking sweet cookies\
+> Autumn is lovely  
+Baking sweet cookies  
 Ding! Goes the timer
 
-> Clean sunlight\
-Hits my face today\
+> Clean sunlight  
+Hits my face today  
 Roaring wind
 
 ## Plan
 Haiku must contain:
+
 1. Seasonal reference (drawn from a premade list, i.e. *saijiki*).
-   1. [Saijiki Examples](https://en.wikipedia.org/wiki/Saijiki#Examples_of_saijiki_and_kiyose)
+  1. [Saijiki Examples](https://en.wikipedia.org/wiki/Saijiki#Examples_of_saijiki_and_kiyose)
 2. Two thoughts, separated by a *kireji*. Computer will have to understand different meanings/thoughts, and juxtapose them.
-   1. Element of suddenness.
-   2. Thought should be related to the *kigo* (seasonal reference).
-   3. Probably the most difficult part of the Haiku.
+  1. Element of suddenness.
+  2. Thought should be related to the *kigo* (seasonal reference).
+  3. Probably the most difficult part of the Haiku.
 3. Syllable counting, 5-7-5.
-   1. Will probably write in English and avoid any Japanese-English translation.
+  1. Will probably write in English and avoid any Japanese-English translation.
