@@ -1,0 +1,35 @@
+{
+  "name": "haikujutsu",
+  "version": "1.0.0",
+  "description": "Small web app for generating haikus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameshyen/Haikujutsu.git"
+  },
+  "keywords": [
+    "haikus",
+    "seasons",
+    "season",
+    "syllables",
+    "syllable",
+    "poetry",
+    "computer",
+    "poetry",
+    "computational",
+    "creativity",
+    "Japanese",
+    "poetry",
+    "creative",
+    "writing"
+  ],
+  "author": "James Yen",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jameshyen/Haikujutsu/issues"
+  },
+  "homepage": "https://github.com/jameshyen/Haikujutsu#readme"
+}
